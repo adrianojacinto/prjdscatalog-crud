@@ -1,0 +1,13 @@
+insert into client(name,cpf,income,birth_Date,children)values('Aline Cardoso','485.442.198-37',12000,TIMESTAMP WITH TIME ZONE '1998-06-13T10:00:00Z',2);
+insert into client(name,cpf,income,birth_Date,children)values('Ana Julia Alves','525.019.828-78',8400,TIMESTAMP WITH TIME ZONE '2001-07-06T10:00:00Z',3);
+insert into client(name,cpf,income,birth_Date,children)values('Gabriela Barbosa','339.172.538-95',9800,TIMESTAMP WITH TIME ZONE '1985-12-06T10:00:00Z',0);
+insert into client(name,cpf,income,birth_Date,children)values('Larissa Souza do Nascimento','419.926.088-90',11500,TIMESTAMP WITH TIME ZONE '2001-01-27T10:00:00Z',3);
+insert into client(name,cpf,income,birth_Date,children)values('Maiane Costa Souza','434.458.098-28',15000,TIMESTAMP WITH TIME ZONE '1994-10-05T10:00:00Z',5);
+insert into client(name,cpf,income,birth_Date,children)values('Maria Salete Gerevini','065.141.298-62',10522,TIMESTAMP WITH TIME ZONE '1964-07-12T10:00:00Z',1);
+insert into client(name,cpf,income,birth_Date,children)values('Mariana Queiroz','497.568.438-10',8900,TIMESTAMP WITH TIME ZONE '2001-09-02T10:00:00Z',2);
+insert into client(name,cpf,income,birth_Date,children)values('Mariene Xavier Veiga da Silva','327.481.458-01',7300,TIMESTAMP WITH TIME ZONE '1985-08-26T10:00:00Z',0);
+insert into client(name,cpf,income,birth_Date,children)values('Marisol Francisco','189.420.148-52',9100,TIMESTAMP WITH TIME ZONE '1969-12-26T10:00:00Z',1);
+insert into client(name,cpf,income,birth_Date,children)values('Patricia RIBEIRO','381.851.928-55',8900,TIMESTAMP WITH TIME ZONE '1988-03-13T10:00:00Z',0);
+insert into client(name,cpf,income,birth_Date,children)values('Sandra Gouveia','276.176.698-95',12200,TIMESTAMP WITH TIME ZONE '1975-04-18T10:00:00Z',2);
+insert into client(name,cpf,income,birth_Date,children)values('Thais Natalia de Sousa Gomes','370.350.128-69',10150,TIMESTAMP WITH TIME ZONE '1987-12-06T10:00:00Z',1);
+insert into client(name,cpf,income,birth_Date,children)values('Vanessa Oliveira','337.430.528-81',11900, TIMESTAMP WITH TIME ZONE '1984-05-12T10:00:00Z',3);
